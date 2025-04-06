@@ -1,0 +1,142 @@
+[
+    {
+        "id": "p001",
+        "name": "John Doe",
+        "age": 30,
+        "gender": "male", 
+        "diagnosis": ["running_nose", "cough", "sore_throat", "headache", "fever"]
+    },
+    {
+        "id": "p002",
+        "name": "Jane Smith",
+        "age": 25,
+        "gender": "female",
+        "diagnosis": ["headache", "fever"]
+    },
+    {
+        "id": "p003",
+        "name": "Michael Brown", 
+        "age": 40,
+        "gender": "male",
+        "diagnosis": ["cough", "sore_throat"]
+    },
+    {
+        "id": "p004",
+        "name": "Sarah Wilson",
+        "age": 35,
+        "gender": "female",
+        "diagnosis": ["fever", "running_nose", "headache"]
+    },
+    {
+        "id": "p005",
+        "name": "David Lee",
+        "age": 28,
+        "gender": "male",
+        "diagnosis": ["sore_throat", "cough"]
+    },
+    {
+        "id": "p006",
+        "name": "Emily Chen",
+        "age": 45,
+        "gender": "female",
+        "diagnosis": ["headache", "fever", "running_nose"]
+    },
+    {
+        "id": "p007",
+        "name": "James Taylor",
+        "age": 32,
+        "gender": "male",
+        "diagnosis": ["cough", "sore_throat", "fever"]
+    },
+    {
+        "id": "p008",
+        "name": "Lisa Wang",
+        "age": 29,
+        "gender": "female",
+        "diagnosis": ["running_nose", "headache"]
+    },
+    {
+        "id": "p009",
+        "name": "Robert Garcia",
+        "age": 38,
+        "gender": "male",
+        "diagnosis": ["fever", "cough", "sore_throat"]
+    },
+    {
+        "id": "p010",
+        "name": "Maria Rodriguez",
+        "age": 42,
+        "gender": "female",
+        "diagnosis": ["headache", "running_nose", "fever"]
+    },
+    {
+        "id": "p011",
+        "name": "Thomas Anderson",
+        "age": 33,
+        "gender": "male",
+        "diagnosis": ["sore_throat", "running_nose"]
+    },
+    {
+        "id": "p012",
+        "name": "Jennifer Kim",
+        "age": 27,
+        "gender": "female",
+        "diagnosis": ["cough", "fever", "headache"]
+    },
+    {
+        "id": "p013",
+        "name": "William Zhang",
+        "age": 36,
+        "gender": "male",
+        "diagnosis": ["running_nose", "sore_throat", "cough"]
+    },
+    {
+        "id": "p014",
+        "name": "Emma Davis",
+        "age": 31,
+        "gender": "female",
+        "diagnosis": ["fever", "headache", "running_nose"]
+    },
+    {
+        "id": "p015",
+        "name": "Daniel Martinez",
+        "age": 44,
+        "gender": "male",
+        "diagnosis": ["cough", "fever", "sore_throat"]
+    },
+    {
+        "id": "p016",
+        "name": "Sophie Turner",
+        "age": 26,
+        "gender": "female",
+        "diagnosis": ["headache", "running_nose"]
+    },
+    {
+        "id": "p017",
+        "name": "Kevin Liu",
+        "age": 39,
+        "gender": "male",
+        "diagnosis": ["sore_throat", "fever", "cough"]
+    },
+    {
+        "id": "p018",
+        "name": "Rachel Green",
+        "age": 34,
+        "gender": "female",
+        "diagnosis": ["running_nose", "headache", "fever"]
+    },
+    {
+        "id": "p019",
+        "name": "Christopher Wong",
+        "age": 41,
+        "gender": "male",
+        "diagnosis": ["cough", "sore_throat", "running_nose"]
+    },
+    {
+        "id": "p020",
+        "name": "Michelle Park",
+        "age": 37,
+        "gender": "female",
+        "diagnosis": ["fever", "headache", "cough"]
+    }
+]
