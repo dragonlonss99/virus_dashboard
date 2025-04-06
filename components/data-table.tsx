@@ -195,7 +195,7 @@ const columns: ColumnDef<z.infer<typeof schema>>[] = [
     cell: ({ row }) => (
       <div className="flex flex-wrap gap-2">
         {row.original.diagnosis.map((diagnosis) => (
-          <Badge variant="outline" className="text-muted-foreground px-1.5">
+          <Badge variant="outline" className="text-muted-foreground px-1.5" key={diagnosis}>
             {diagnosis}
           </Badge>
         ))}
@@ -534,7 +534,7 @@ function TableCellViewer({ item }: { item: z.infer<typeof schema> }) {
         </DrawerHeader>
         <div className="flex flex-col gap-2 p-4">
           {item.diagnosis.map((diagnosis) => (
-            <Badge variant="outline" className="text-muted-foreground px-1.5">
+            <Badge variant="outline" className="text-muted-foreground px-1.5" key={diagnosis}>
               {diagnosis}
             </Badge>
           ))}
